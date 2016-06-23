@@ -6,8 +6,8 @@ This is an archetype for creating a Spigot or Bukkit Plugin. These plugins can b
 
 Create a new sample plugin as:
 
-`console
-mvn --batch-mode archetype:generate -DarchetypeGroupId=org.devoxx4kids.spigot.plugins -DarchetypeArtifactId=spigot-template -DarchetypeVersion=0.3 -DartifactId=sampleArtifact -DpluginFile=samplePluginName 
+`
+mvn --batch-mode archetype:generate -DarchetypeGroupId=org.devoxx4kids.spigot.plugins -DarchetypeArtifactId=spigot-template -DarchetypeVersion=0.4 -DartifactId=sampleArtifact -DpluginFile=samplePluginName 
 `
 
 - Change the value of "samplePluginName" to your plugin name.
