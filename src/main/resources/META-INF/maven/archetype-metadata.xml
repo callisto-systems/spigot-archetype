@@ -13,9 +13,6 @@
         <requiredProperty key="pluginFile">
             <defaultValue>MyPlugin</defaultValue>
         </requiredProperty>
-        <requiredProperty key="spigot">
-            <defaultValue>/Users/Aditya/Desktop/spigot</defaultValue>
-        </requiredProperty>
     </requiredProperties>
     <fileSets>
         <fileSet filtered="true" packaged="true" encoding="UTF-8">
