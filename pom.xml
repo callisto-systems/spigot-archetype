@@ -4,7 +4,7 @@
   
     <groupId>org.devoxx4kids.spigot.plugins</groupId>
     <artifactId>spigot-template</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.4</version>
     <packaging>maven-archetype</packaging>
     <name>Spigot Plugin for Devoxx4Kids Workshops</name>
     <description>Spigot Template Plugin</description>
