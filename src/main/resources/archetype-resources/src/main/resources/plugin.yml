@@ -1,9 +1,9 @@
 name: ${artifactId}
-version: "1.0-SNAPSHOT"
-author: Your Name
-main: ${package}.${pluginFile}
+version: ${version}
+author: ${developerName}
+main: ${package}.${pluginClassName}
 commands:
-  exampleCommand:
+  CoderDojo:
     description: Execute example command
     usage: /<command>
     permission: <plugin name>.basic
