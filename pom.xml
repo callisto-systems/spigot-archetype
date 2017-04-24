@@ -9,7 +9,15 @@
     <name>Spigot Plugin for CoderDojo Workshops</name>
     <description>Spigot Plugin for CoderDojo Workshops</description>
     <url>https://github.com/callisto-systems/spigot-archetype</url>
-    
+	
+	<properties>
+		<github.global.server>github</github.global.server>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+	</properties>
+	
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
