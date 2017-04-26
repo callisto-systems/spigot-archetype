@@ -41,7 +41,7 @@
 	
 	<scm>
         <connection>scm:git:git://github.com/callisto-systems/spigot-archetype.git</connection>
-        <developerConnection>scm:git:git@github.com:callisto-systems/spigot-archetype.git</developerConnection>
+        <developerConnection>scm:git:git@github.com/callisto-systems/spigot-archetype.git</developerConnection>
         <url>https://github.com/callisto-systems/spigot-archetype</url>
         <tag>spigot-template-1.0</tag>
     </scm>
