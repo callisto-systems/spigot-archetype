@@ -29,10 +29,6 @@
     </licenses>
 
     <developers>
-        <developer>
-            <name>Arun Gupta</name>
-            <email>arun.gupta@gmail.com</email>
-        </developer>
 		<developer>
             <name>Mihai Vasilache</name>
             <email>mihai@callisto.systems</email>
@@ -41,9 +37,9 @@
 	
 	<scm>
         <connection>scm:git:git://github.com/callisto-systems/spigot-archetype.git</connection>
-        <developerConnection>scm:git:git://github.com/callisto-systems/spigot-archetype.git</developerConnection>
+        <!--<developerConnection>scm:git:git://github.com/callisto-systems/spigot-archetype.git</developerConnection>-->
+        <developerConnection>scm:git:git@github.com:callisto-systems/spigot-archetype.git</developerConnection>
         <url>https://github.com/callisto-systems/spigot-archetype</url>
-        <tag>spigot-template-1.0</tag>
     </scm>
 	
 	<distributionManagement>
