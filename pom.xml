@@ -4,7 +4,7 @@
   
     <groupId>ro.coderdojo.spigot</groupId>
     <artifactId>spigot-template</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
     <name>Spigot Plugin for CoderDojo Workshops</name>
     <description>Spigot Plugin for CoderDojo Workshops</description>
@@ -38,8 +38,9 @@
 	<scm>
         <connection>scm:git:git@github.com:callisto-systems/spigot-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:callisto-systems/spigot-archetype.git</developerConnection>
-        <url>https://github.com/callisto-systems/spigot-archetype</url>
-    </scm>
+        <url>https://github.com/callisto-systems/spigot-archetype.git</url>
+      <tag>spigot-template-1.0</tag>
+  </scm>
 	
 	<distributionManagement>
         <snapshotRepository>
