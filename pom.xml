@@ -36,9 +36,9 @@
     </developers>
 	
 	<scm>
-        <connection>scm:git:git://github.com/callisto-systems/spigot-archetype.git</connection>
-        <!--<developerConnection>scm:git:git://github.com/callisto-systems/spigot-archetype.git</developerConnection>-->
-        <developerConnection>scm:git:git@github.com:callisto-systems/spigot-archetype.git</developerConnection>
+        <connection>scm:git:https://github.com/callisto-systems/spigot-archetype.git</connection>
+        <developerConnection>scm:git:https://github.com/callisto-systems/spigot-archetype.git</developerConnection>
+        <!--<developerConnection>scm:git:git@github.com:callisto-systems/spigot-archetype.git</developerConnection>-->
         <url>https://github.com/callisto-systems/spigot-archetype</url>
     </scm>
 	
